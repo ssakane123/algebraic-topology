@@ -33,7 +33,7 @@ H[1]: Z
 b[0]: 1
 b[1]: 1
 ```
-The notations we use above code are following: 
+The notations we use in the code are following: 
 - `X`: a simplicial complex
 - `C[q]`: the q-th module of the chain complex for `X`
 - `d[q]`: the q-th boundary homomorphism of the chain complex for `X`. A matrix after the boundary homomorphism `d[i]` is the matrix representation of `d[i]`
