@@ -1,6 +1,6 @@
 # algebraic-topology
 
-algebraic-topology is a library to compute objects on algebraic topology, for instance, finite simplicial complex homology groups, Betti numbers, so on and so forth. 
+algebraic-topology is a library to compute objects on algebraic topology, for instance, finite simplicial complex,  homology groups, Betti numbers, so on and so forth. 
 
 algebraic-topology has the numpy library. 
 You should install it first. 
